@@ -28,26 +28,26 @@ It listens to **keyboard-emulated RFID or NFC readers** and displays both **Deci
 
 ## 📦 Installation
 
-1.  **Clone or download** this repository:
-    ```bash
-    git clone https://github.com/yourusername/rfid-nfc-reader.git
-    cd rfid-nfc-reader
-    ```
-2.  Create a virtual environment (recommended):
-    ```bash
-    python -m venv .venv
-    source .venv/bin/activate      # macOS/Linux
-    .venv\Scripts\activate         # Windows
-    ```
-3.  Install required packages:
+1. **Clone or download** this repository:
+   ```bash
+   git clone https://github.com/yourusername/rfid-nfc-reader.git
+   cd rfid-nfc-reader
+   ```
+2. Create a virtual environment (recommended):
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate      # macOS/Linux
+   .venv\Scripts\activate         # Windows
+   ```
+3. Install required packages:
 
-    ```bash
-    pip install keyboard
-    ```
+   ```bash
+   pip install keyboard
+   ```
 
-4.  Scan Card:
-    The interface will display:
-    `bash
-DEC: 0004098643
-HEX: 3E8A53
-`
+4. Scan Card:  
+   The interface will display:
+   ```bash
+   DEC: 0004098643
+   HEX: 3E8A53
+   ```
