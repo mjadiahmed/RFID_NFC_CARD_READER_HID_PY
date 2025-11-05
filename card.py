@@ -61,16 +61,16 @@ def on_kb_event(e):
 
 # --- GUI setup ---
 root = tk.Tk()
-root.title("RFID / NFC Reader – Apple Style")
+root.title("RFID / NFC Reader")
 root.geometry("440x280")
 root.configure(bg="#f5f5f7")
 root.resizable(False, False)
 
-# Apply Apple aesthetic theme
+#  aesthetic theme
 style = ttk.Style()
 style.theme_use("clam")
 
-# Apple-like font and soft UI design
+#  font and soft UI design
 style.configure(
     "TLabel",
     font=("SF Pro Display", 11),
