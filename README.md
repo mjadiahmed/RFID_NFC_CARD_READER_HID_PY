@@ -41,6 +41,7 @@ It listens to **keyboard-emulated RFID or NFC readers** and displays both **Deci
 
 4. Scan Card:  
    The interface will display:
+
    <img width="462" height="327" alt="image" src="https://github.com/user-attachments/assets/6218d827-a39f-4c72-a849-e7bcf544ec97" />
 
    ```bash
