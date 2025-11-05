@@ -110,7 +110,7 @@ title_label.pack(pady=(20, 5))
 
 subtitle_label = ttk.Label(
     inner,
-    text="Switch your keyboard layout → English (US)\nThen scan your card below",
+    text="Switch your keyboard layout to English (US)\nThen scan your card below",
     font=("SF Pro Display", 10),
     foreground="#6e6e73",
     background="#ffffff",
