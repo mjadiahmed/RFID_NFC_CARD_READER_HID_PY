@@ -3,8 +3,6 @@
 A lightweight and elegant **RFID / NFC HID Reader GUI** built with Python and Tkinter.  
 It listens to **keyboard-emulated RFID or NFC readers** and displays both **Decimal (DEC)** and **Hexadecimal (HEX)** card IDs in real time.
 
----
-
 ## ✨ Features
 
 - 🧠 Automatically detects keyboard input from RFID / NFC HID readers
@@ -14,8 +12,6 @@ It listens to **keyboard-emulated RFID or NFC readers** and displays both **Deci
 - ⚡ Real-time decoding and GUI update
 - 💡 Built-in tip to avoid layout errors (supports English US keyboard layout)
 
----
-
 ## 🖥️ Requirements
 
 | Component  | Description                                           |
@@ -23,8 +19,6 @@ It listens to **keyboard-emulated RFID or NFC readers** and displays both **Deci
 | **Python** | ≥ 3.8                                                 |
 | **OS**     | Windows / macOS / Linux                               |
 | **Input**  | RFID / NFC Reader emulating keyboard input (HID mode) |
-
----
 
 ## 📦 Installation
 
