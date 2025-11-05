@@ -1,4 +1,4 @@
-# 📡 RFID / NFC Card Reader – Apple Style
+# 📡 RFID / NFC Card Reader
 
 A lightweight and elegant **RFID / NFC HID Reader GUI** built with Python and Tkinter, featuring an Apple-inspired design.  
 It listens to **keyboard-emulated RFID or NFC readers** and displays both **Decimal (DEC)** and **Hexadecimal (HEX)** card IDs in real time.
